@@ -4,7 +4,7 @@
 
 The main claims about NSANet in this repo, each traced to where it comes from and how good that source is.
 
-**The pattern to notice:** the only primary material is 19 to 23 years old; everything technical since then comes through one hobbyist blog; and the current reporting is anonymous-source journalism with no technical content.
+**The pattern to notice:** the only primary material seen directly is 19 to 23 years old; everything technical since then comes through one hobbyist blog; and the current reporting is anonymous-source journalism with no technical content.
 
 ## Claim by claim
 
@@ -12,8 +12,8 @@ Each source links to its entry in [sources.md](sources.md), which gives what the
 
 | Claim | Source | Source type | Date of underlying evidence |
 | --- | --- | --- | --- |
-| NSANet exists and is the NSA's "home" system | [SIDtoday, "Intelink: Make the Connection"](sources.md#primary-documents) | Primary: leaked internal NSA newsletter, published by The Intercept | Nov 2006 |
-| Operates at TS//SI/TK, REL FVEY | [SIDtoday page banners on every article](sources.md#primary-documents) | Primary: classification markings on leaked documents | 2003 to 2007 |
+| NSANet exists and, in the article's words, "may be the 'home' system for NSAers" | [SIDtoday, "Intelink: Make the Connection"](sources.md#primary-documents) | Primary: leaked internal NSA newsletter, published by The Intercept | Nov 2006 |
+| Consistent with operating at TS//SI/TK, REL FVEY | [SIDtoday page banners on every article](sources.md#primary-documents) | Primary: classification markings on leaked documents | 2003 to 2007 |
 | Internal content not to be reposted outside NSANet | [SIDtoday boilerplate footer](sources.md#primary-documents) | Primary | 2003 to 2007 |
 | TAO data flows via a TAONet/NSANet DMZ to NSANet repositories | [NSA TAO presentation in Snowden archive, as reproduced by Electrospaces](sources.md#primary-documents) | Primary document, seen only via a secondary host | circa 2012 |
 | Poor search, unorganised data | [Report cited by Wikipedia](sources.md#wikipedia) | Tertiary, citing a 1998 report not independently checked here | 1998 |
@@ -23,8 +23,8 @@ Each source links to its entry in [sources.md](sources.md), which gives what the
 | Hosted tools (TREASUREMAP, MARINA, TURBINE etc.) | [Electrospaces, compiling Snowden documents](sources.md#electrospacesnet) | Secondary compilation of primary documents | 2008 to 2013 |
 | NSTS phones ride on NSANet | [Electrospaces, citing a Quizlet flashcard set](sources.md#electrospacesnet) | Secondary citing a weak source | undated |
 | Orange-and-yellow KVM label at NSOC | [Electrospaces photo caption](sources.md#electrospacesnet) | Secondary interpretation of an official photo | 2006 |
-| Network down 17 Nov 2026, no evidence of cyberattack, staggered arrivals | [CNN, six anonymous sources; repeated by Forbes, ABC, WRAL, Ynet](sources.md#november-2026-reporting) | Anonymous-source journalism | Nov 2026 |
-| Cause likely a software patch | [WSJ via Jerusalem Post; Nextgov (four of six sources)](sources.md#november-2026-reporting) | Anonymous-source journalism | Nov 2026 |
+| Network down 17 Nov 2026, no evidence of cyberattack, staggered measures | [CNN, six anonymous sources; repeated by Forbes, ABC, WRAL, Ynet](sources.md#november-2026-reporting) | Anonymous-source journalism | Nov 2026 |
+| Cause may be a software patch or a series of upgrades | [WSJ via Jerusalem Post (one person familiar); Nextgov (four of six sources)](sources.md#november-2026-reporting) | Anonymous-source journalism | Nov 2026 |
 | Unstable for weeks | [New York Times, one anonymous source](sources.md#november-2026-reporting) | Anonymous-source journalism, single source | Nov 2026 |
 | 2000 crash, nearly three days | [CNN, quoting an agency spokesperson from 2000](sources.md#november-2026-reporting) | Journalism citing an on-record official statement | Jan 2000 |
 

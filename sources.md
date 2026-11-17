@@ -4,7 +4,7 @@
 
 What each source says about NSANet, and how far each can be trusted. For the same material claim by claim, see [provenance.md](provenance.md).
 
-> **Nearly all technical detail since 2007 rests on one pseudonymous hobbyist blog**, [Electrospaces.net](#electrospacesnet). The only primary material is 19 to 23 years old, and the current reporting is anonymous-source journalism with no technical content.
+> **Nearly all technical detail since 2007 rests on one pseudonymous hobbyist blog**, [Electrospaces.net](#electrospacesnet). The only primary material seen directly is 19 to 23 years old, and the current reporting is anonymous-source journalism with no technical content.
 
 | Tier | Source | Date of underlying evidence | Caveat |
 | --- | --- | --- | --- |
@@ -51,7 +51,7 @@ A pseudonymous Dutch blog (author "P/K") specialising in SIGINT and COMSEC, wide
 - Phone service: NSTS phones connect via fibre to the NSANet service delivery point router.
 - A 2006 NSOC photo caption describes a KVM switch with two green (Unclassified), one red (Secret) and one orange-and-yellow (TS/SCI) labelled network. Orange appears only in this caption; the standard code given for TS/SCI networks is yellow.
 
-**Provenance:** a hobbyist compilation, but each line is footnoted to a Snowden document, FOIA release, job advert or official photo. Treat it as a well-indexed secondary source, not an authority. Only the first portion of the page text was read, and every claim above was quoted rather than paraphrased.
+**Provenance:** a hobbyist compilation, but each line is footnoted to a Snowden document, FOIA release, job advert, official photo or, for the phone claim, a Quizlet flashcard set. Treat it as a well-indexed secondary source, not an authority. Only the first portion of the page text was read, and every claim above was quoted rather than paraphrased.
 
 Two lines carry a caveat of their own in the provenance table. The phone claim cites a Quizlet flashcard set, which the table calls a weak source, and is undated. The FOIA document behind the 2007 domain change was not opened here. Line-by-line sourcing and dates are in the [provenance table](provenance.md#claim-by-claim).
 

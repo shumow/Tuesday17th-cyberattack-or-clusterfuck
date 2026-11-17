@@ -31,7 +31,7 @@ Working notes compiled 17 November 2026, prompted by reports that NSA's classifi
 
 ### Summary
 
-NSANet is real and has been publicly documented since at least the late 1990s. The strongest evidence is primary: leaked NSA internal newsletters (SIDtoday, 2003–2007) that refer to NSANet as the agency's "home" system and carry a standing notice that articles may not be reposted outside NSANet. Secondary sources (Wikipedia, the Electrospaces blog) add detail on classification level, colour coding, users, management and hosted tools, mostly derived from Snowden-era documents, FOIA releases and job postings. The weakness is recency: nearly all substantive public detail is 2003–2015 vintage. The only current confirmation is the November 2026 outage reporting, which describes the network functionally but not technically.
+NSANet is real and has been publicly documented since at least the late 1990s. The strongest evidence is primary: leaked NSA internal newsletters (SIDtoday, 2003–2007) that refer to NSANet as the agency's "home" system and carry a standing notice that articles may not be reposted outside NSANet. Secondary and tertiary sources (the Electrospaces blog, Wikipedia) add detail on classification level, colour coding, users, management and hosted tools, mostly derived from Snowden-era documents, FOIA releases and job postings. The weakness is recency: nearly all substantive public detail is 2003–2015 vintage. The only current confirmation is the November 2026 outage reporting, which describes the network functionally but not technically.
 
 ## Read on
 
