@@ -1,0 +1,49 @@
+# Provenance at a glance
+
+[README](README.md) · **Provenance** · [Sources](sources.md) · [Timeline](timeline.md) · [Assessment](assessment.md) · [Comparison](comparison.md) · [Open questions](open-questions.md)
+
+Every substantive claim about NSANet in this repo, traced to where it comes from and how good that source is.
+
+**The pattern to notice:** the only primary material is 19 to 23 years old; everything technical since then comes through one hobbyist blog; and the current reporting is anonymous-source journalism with no technical content.
+
+## Claim by claim
+
+Each source links to its entry in [sources.md](sources.md), which gives what the source says and how far to trust it.
+
+| Claim | Source | Source type | Date of underlying evidence |
+| --- | --- | --- | --- |
+| NSANet exists and is the NSA's "home" system | [SIDtoday, "Intelink: Make the Connection"](sources.md#primary-documents) | Primary: leaked internal NSA newsletter, published by The Intercept | Nov 2006 |
+| Operates at TS//SI/TK, REL FVEY | [SIDtoday page banners on every article](sources.md#primary-documents) | Primary: classification markings on leaked documents | 2003 to 2007 |
+| Internal content not to be reposted outside NSANet | [SIDtoday boilerplate footer](sources.md#primary-documents) | Primary | 2003 to 2007 |
+| TAO data flows via a TAONet/NSANet DMZ to NSANet repositories | [NSA TAO presentation in Snowden archive, as reproduced by Electrospaces](sources.md#primary-documents) | Primary document, seen only via a secondary host | circa 2012 |
+| Poor search, unorganised data | [Report cited by Wikipedia](sources.md#wikipedia) | Tertiary, citing a 1998 report not independently checked here | 1998 |
+| Over twenty COTS operating systems | [Report cited by Wikipedia](sources.md#wikipedia) | Tertiary, underlying 2004 report not checked here | 2004 |
+| Colour code yellow, TACLANE encryptors, about 30,000 users, polygraph required, CSS Texas management | [Electrospaces.net](sources.md#electrospacesnet) | Secondary: pseudonymous hobbyist blog, footnoted to job postings, a Quizlet flashcard set, FOIA documents and photos | 2006 to 2015 |
+| Domain changed from .nsa to nsa.ic.gov in 2007 | [Electrospaces, citing FOIA'd NSA executive messages on governmentattic.org](sources.md#electrospacesnet) | Secondary citing primary; the FOIA document was not opened here | 2007 |
+| Hosted tools (TREASUREMAP, MARINA, TURBINE etc.) | [Electrospaces, compiling Snowden documents](sources.md#electrospacesnet) | Secondary compilation of primary documents | 2008 to 2013 |
+| NSTS phones ride on NSANet | [Electrospaces, citing a Quizlet flashcard set](sources.md#electrospacesnet) | Secondary citing a weak source | undated |
+| Orange-and-yellow KVM label at NSOC | [Electrospaces photo caption](sources.md#electrospacesnet) | Secondary interpretation of an official photo | 2006 |
+| Network down 17 Nov 2026, no evidence of cyberattack, staggered arrivals | [CNN, six anonymous sources; repeated by Forbes, ABC, WRAL, Ynet](sources.md#november-2026-reporting) | Anonymous-source journalism | Nov 2026 |
+| Cause likely a software patch | [WSJ via Jerusalem Post; Nextgov (four of six sources)](sources.md#november-2026-reporting) | Anonymous-source journalism | Nov 2026 |
+| Unstable for weeks | [New York Times, one anonymous source](sources.md#november-2026-reporting) | Anonymous-source journalism, single source | Nov 2026 |
+| 2000 crash, nearly three days | [CNN, quoting an agency spokesperson from 2000](sources.md#november-2026-reporting) | Journalism citing an on-record official statement | Jan 2000 |
+
+This table is the at-a-glance view. Claims that appear only elsewhere carry their source where they are stated: the comparison with other networks in [comparison.md](comparison.md), and the rest of the outage reporting in [timeline.md](timeline.md). Two items do not yet name a source at all: the base-rate cases in [assessment.md](assessment.md#base-rate) and the context outages in [timeline.md](timeline.md#13-november-2026).
+
+## What was not done
+
+The FOIA documents, the 1998 and 2004 reports, and the Snowden TAO slide were not opened directly; they are known here only through the secondary sources that cite them. The Electrospaces page was read in part, not in full.
+
+Each of these is a task in [open-questions.md](open-questions.md#verification-to-do).
+
+## Where the claims are used
+
+- What each source says, with its caveat: [sources.md](sources.md)
+- The outage claims in date order: [timeline.md](timeline.md)
+- What the evidence adds up to: [assessment.md](assessment.md)
+
+## Sources
+
+This table draws on every source in the repo. The full list is in [sources.md](sources.md#sources-consulted).
+
+[Back to README](README.md)
