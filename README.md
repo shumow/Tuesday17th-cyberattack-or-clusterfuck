@@ -12,12 +12,12 @@ Investigation into the November 17th weirdness
 
 | Status | 17 November 2026 |
 | --- | --- |
-| **Latest update** | NSANet, the NSA's classified internal network, is reported down. CNN, citing six anonymous sources, reported no evidence of a cyberattack at that point and staggered measures while scope was assessed. Later reports point to a software patch (WSJ via Jerusalem Post; Nextgov, four of six sources) and say the network had been unstable for weeks (New York Times, one source). Details in the [timeline](timeline.md#17-november-2026). |
+| **Latest update** | NSANet, the NSA's classified internal network, is reported down. CNN, citing six anonymous sources, reported no evidence of a cyberattack at that point and staggered measures while scope was assessed. Later reports: one person familiar told the Wall Street Journal (via Jerusalem Post) that the NSA was updating its software to patch the system; four of Nextgov's six sources said the outage may be linked to a series of software upgrades; one person told the New York Times the network had been unstable for weeks. Details in the [timeline](timeline.md#17-november-2026). |
 | **Current best explanation** | Self-inflicted, a botched software update, rather than a cyberattack. The reporting so far matches the botched-update profile on every point available, and none of the intrusion signs have been reported. Strongly favoured on current evidence, but an assessment, not a finding. Reasoning in the [assessment](assessment.md#cyberattack-versus-self-inflicted). |
 | **What changed** | First entry. |
 | **Watch for** | A change in the outage's duration or in the agency's posture. |
 
-All of the current reporting is anonymous-source journalism with no technical content: see [sources.md](sources.md#november-2026-reporting).
+The current reporting is anonymous-source journalism with no technical content: see [sources.md](sources.md#november-2026-reporting).
 
 ## Reading rule
 
@@ -37,7 +37,7 @@ NSANet is real and has been publicly documented since at least the late 1990s. T
 
 | File | What is in it |
 | --- | --- |
-| [provenance.md](provenance.md) | Every claim with its source, source type and date. Start here. |
+| [provenance.md](provenance.md) | The claim-by-claim table: the main claims, each with its source, source type and date. Start here. |
 | [sources.md](sources.md) | The four source tiers, what each says and how far to trust it. |
 | [timeline.md](timeline.md) | The November 2026 outage reporting and prior outages, newest first. |
 | [assessment.md](assessment.md) | What "mission critical" means on the open evidence, and cyberattack versus self-inflicted. |
@@ -49,3 +49,8 @@ NSANet is real and has been publicly documented since at least the late 1990s. T
 - The status table above always shows the latest dated update.
 - New reporting goes into [timeline.md](timeline.md) as a dated entry, newest first.
 - Every claim keeps its source, source type and date. A claim without a source goes into [open-questions.md](open-questions.md) until it has one.
+- A new outlet also goes into the Sources list at the end of [timeline.md](timeline.md#sources) and into [sources.md](sources.md).
+
+## Sources
+
+The status and summary on this page rest on the sources listed in [sources.md](sources.md#sources-consulted). The outage reports are also listed at the end of [timeline.md](timeline.md#sources).

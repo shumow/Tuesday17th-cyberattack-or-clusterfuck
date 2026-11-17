@@ -2,13 +2,13 @@
 
 [README](README.md) · **Provenance** · [Sources](sources.md) · [Timeline](timeline.md) · [Assessment](assessment.md) · [Comparison](comparison.md) · [Open questions](open-questions.md)
 
-Every substantive claim about NSANet in this repo, traced to where it comes from and how good that source is.
+The main claims about NSANet in this repo, each traced to where it comes from and how good that source is.
 
 **The pattern to notice:** the only primary material is 19 to 23 years old; everything technical since then comes through one hobbyist blog; and the current reporting is anonymous-source journalism with no technical content.
 
 ## Claim by claim
 
-Each source links to its entry in [sources.md](sources.md), which gives what the source says and how far to trust it.
+Each source links to its entry in [sources.md](sources.md), which gives what the source says and how far to trust it. For the outage rows, what each report said is in [timeline.md](timeline.md).
 
 | Claim | Source | Source type | Date of underlying evidence |
 | --- | --- | --- | --- |
@@ -28,7 +28,7 @@ Each source links to its entry in [sources.md](sources.md), which gives what the
 | Unstable for weeks | [New York Times, one anonymous source](sources.md#november-2026-reporting) | Anonymous-source journalism, single source | Nov 2026 |
 | 2000 crash, nearly three days | [CNN, quoting an agency spokesperson from 2000](sources.md#november-2026-reporting) | Journalism citing an on-record official statement | Jan 2000 |
 
-This table is the at-a-glance view. Claims that appear only elsewhere carry their source where they are stated: the comparison with other networks in [comparison.md](comparison.md), and the rest of the outage reporting in [timeline.md](timeline.md). Two items do not yet name a source at all: the base-rate cases in [assessment.md](assessment.md#base-rate) and the context outages in [timeline.md](timeline.md#13-november-2026).
+This table is the at-a-glance view. Other claims are sourced where they are stated: the comparison with other networks in [comparison.md](comparison.md), and the rest of the outage reporting in [timeline.md](timeline.md). Some statements do not yet name a source at all, among them the base-rate cases in [assessment.md](assessment.md#base-rate) and the context outages in [timeline.md](timeline.md#13-november-2026). Those identified so far are listed under [Needs sourcing](open-questions.md#needs-sourcing).
 
 ## What was not done
 
@@ -44,6 +44,6 @@ Each of these is a task in [open-questions.md](open-questions.md#verification-to
 
 ## Sources
 
-This table draws on every source in the repo. The full list is in [sources.md](sources.md#sources-consulted).
+The sources behind this table are listed in [sources.md](sources.md#sources-consulted).
 
 [Back to README](README.md)

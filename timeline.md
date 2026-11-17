@@ -2,7 +2,7 @@
 
 [README](README.md) · [Provenance](provenance.md) · [Sources](sources.md) · **Timeline** · [Assessment](assessment.md) · [Comparison](comparison.md) · [Open questions](open-questions.md)
 
-The November 2026 outage and the earlier outages on the public record, newest first. Each entry says who reported it and what kind of source that is.
+The November 2026 outage and the earlier outages on the public record, newest first. Each entry says who reported it and what kind of source that is, or says that this is not recorded.
 
 Only one comparable precedent is on the public record: the [January 2000](#january-2000) crash. No prior public reporting on NSANet instability was found before the week of 17 November 2026.
 
@@ -17,6 +17,8 @@ New entries go directly below this comment, newest first. Template:
 
 Source type: for example anonymous-source journalism, or an on-record statement.
 
+Add any new outlet to the Sources list at the end of this file and to sources.md.
+
 Then update the status table at the top of README.md.
 -->
 
@@ -24,7 +26,7 @@ Then update the status table at the top of README.md.
 
 **NSANet reported down.**
 
-The first report:
+The CNN report:
 
 - CNN reported, citing six sources, that the network "called NSA Net" which "allows employees to communicate classified information internally" had gone down, with no evidence of a cyberattack at that point and staggered measures enacted while scope was assessed.
 - Forbes, The Record, ABC and others repeated the same framing.
@@ -41,7 +43,7 @@ What it adds up to: [cyberattack versus self-inflicted](assessment.md#cyberattac
 
 ## 13 November 2026
 
-**Other outages in the days before (context).**
+**Other outages before the NSANet outage (context).**
 
 The NSANet outage followed a Microsoft Outlook/Teams outage on 13 November, an FAA ground stop and online banking outages; Microsoft and the FAA each said they found no sign of malicious activity. No source has linked these events.
 
@@ -53,7 +55,7 @@ Source type: not recorded. No source is named for this item yet, and the FAA gro
 
 The Record cites a 2013 incident in which the NSA's public website went dark; officials attributed it to a scheduled update, which is unrelated to the classified network.
 
-Source type: journalism citing officials, in The Record's coverage of the November 2026 outage.
+Source: The Record. No source type is recorded for this item, and it is not in the [provenance table](provenance.md#claim-by-claim).
 
 ## January 2000
 
@@ -61,7 +63,7 @@ Source type: journalism citing officials, in The Record's coverage of the Novemb
 
 CNN's 17 November 2026 report notes that in 2000 a technical failure at the agency downed computers for nearly three days and interrupted intelligence processing at Fort Meade, per an agency spokesperson at the time. That January 2000 crash was widely reported but not publicly tied to NSANet by name.
 
-Source type: journalism citing an on-record official statement. This is the one on-record item in the [provenance table](provenance.md#claim-by-claim).
+Source type: journalism citing an on-record official statement, for what CNN notes. This is the one on-record item in the [provenance table](provenance.md#claim-by-claim). The statement that the crash was widely reported names no source yet: a task in [open-questions.md](open-questions.md#needs-sourcing).
 
 ## Sources
 
@@ -69,6 +71,6 @@ Source type: journalism citing an on-record official statement. This is the one 
 - Forbes, The Record, ABC News 4, Ynetnews coverage of the same outage (17 Nov 2026)
 - Wall Street Journal (via Jerusalem Post), Nextgov/FCW and New York Times (syndicated), Nov 2026
 
-How far to trust each, and the full list: [sources.md](sources.md#november-2026-reporting).
+How far to trust each: [sources.md](sources.md#november-2026-reporting). The full list: [sources.md](sources.md#sources-consulted).
 
 [Back to README](README.md)

@@ -10,7 +10,7 @@ What the open evidence adds up to, as of 17 November 2026. This page is assessme
 - **Not settled:** What open sources do not settle is whether collection and processing pipelines themselves depend on it, or how much has moved to other enclaves since the mid-2000s.
 - **Inference:** A plausible reading is that an outage halts analysts' access to tools and communications without necessarily stopping collection, but that is inference, not documented fact.
 
-The detail behind the first point is in [sources.md](sources.md): the hosted applications and phone service under [Electrospaces.net](sources.md#electrospacesnet), and the TAO presentation under [Primary documents](sources.md#primary-documents). The unsettled points are tracked in [open-questions.md](open-questions.md#not-settled-by-the-open-evidence).
+Related detail is in [sources.md](sources.md): the hosted applications and phone service under [Electrospaces.net](sources.md#electrospacesnet), and the TAO presentation under [Primary documents](sources.md#primary-documents). No source entry names email or chat: a task in [open-questions.md](open-questions.md#needs-sourcing). The unsettled points are tracked in [open-questions.md](open-questions.md#not-settled-by-the-open-evidence).
 
 ## Cyberattack versus self-inflicted
 

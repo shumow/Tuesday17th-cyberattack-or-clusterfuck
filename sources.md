@@ -4,14 +4,14 @@
 
 What each source says about NSANet, and how far each can be trusted. For the same material claim by claim, see [provenance.md](provenance.md).
 
-> **Nearly all technical detail since 2007 rests on one pseudonymous hobbyist blog.** The only primary material is 19 to 23 years old. Everything technical since then comes through [Electrospaces.net](#electrospacesnet), and the current reporting is anonymous-source journalism with no technical content.
+> **Nearly all technical detail since 2007 rests on one pseudonymous hobbyist blog**, [Electrospaces.net](#electrospacesnet). The only primary material is 19 to 23 years old, and the current reporting is anonymous-source journalism with no technical content.
 
 | Tier | Source | Date of underlying evidence | Caveat |
 | --- | --- | --- | --- |
 | Primary | [Leaked NSA documents](#primary-documents) | 2003 to 2007, one item circa 2012 | Authentic but old |
-| Tertiary | [Wikipedia](#wikipedia) | 1998 and 2004 | The reports it cites were not checked |
+| Tertiary | [Wikipedia](#wikipedia) | 1998 and 2004 for the two reports it cites; none recorded for its general description | The reports it cites were not checked |
 | Secondary | [Electrospaces.net](#electrospacesnet) | 2006 to 2015 | One pseudonymous hobbyist blog, read in part |
-| Current | [November 2026 reporting](#november-2026-reporting) | Nov 2026 | Anonymous sources, no technical detail |
+| Current: anonymous-source journalism | [November 2026 reporting](#november-2026-reporting) | Nov 2026 | Anonymous sources, no technical detail |
 
 ## Primary documents
 
@@ -29,7 +29,7 @@ Snowden-era NSA documents: the SIDtoday newsletter as published by The Intercept
 
 ## Wikipedia
 
-**Tier:** tertiary. **Date of underlying evidence:** 1998 and 2004, the two reports it cites.
+**Tier:** tertiary. **Date of underlying evidence:** 1998 and 2004 for the two reports it cites. None is recorded for the general description in the first bullet.
 
 - Describes NSANet as the official NSA intranet, classified up to TS/SCI, supporting intelligence sharing between NSA and the SIGINT agencies of the other Five Eyes nations; management delegated to Central Security Service Texas; fibre-optic and satellite links almost entirely separated from the public Internet.
 - Cites a 1998 report that NSANet, along with NIPRNet and SIPRNet, had "significant problems with poor search capabilities, unorganized data and old information," and a 2004 report that it ran over twenty commercial off-the-shelf operating systems.
@@ -53,13 +53,13 @@ A pseudonymous Dutch blog (author "P/K") specialising in SIGINT and COMSEC, wide
 
 **Provenance:** a hobbyist compilation, but each line is footnoted to a Snowden document, FOIA release, job advert or official photo. Treat it as a well-indexed secondary source, not an authority. Only the first portion of the page text was read, and every claim above was quoted rather than paraphrased.
 
-Two lines are weaker than the rest. The phone claim rests on a Quizlet flashcard set and is undated, and the FOIA document behind the 2007 domain change was not opened here. Line-by-line sourcing and dates are in the [provenance table](provenance.md#claim-by-claim).
+Two lines carry a caveat of their own in the provenance table. The phone claim cites a Quizlet flashcard set, which the table calls a weak source, and is undated. The FOIA document behind the 2007 domain change was not opened here. Line-by-line sourcing and dates are in the [provenance table](provenance.md#claim-by-claim).
 
 **Why it matters:** nearly all technical detail since 2007 rests on this one blog, including the TAO presentation under [Primary documents](#primary-documents), which was seen only as Electrospaces reproduces it.
 
 ## November 2026 reporting
 
-**Tier:** anonymous-source journalism. **Date of underlying evidence:** Nov 2026.
+**Tier:** current reporting, anonymous-source journalism. **Date of underlying evidence:** Nov 2026. One item is the exception: for the 2000 crash, CNN quotes an agency spokesperson from 2000, which the provenance table records as journalism citing an on-record official statement, dated Jan 2000.
 
 - CNN (17 Nov 2026) reported, citing six sources, that the network "called NSA Net" which "allows employees to communicate classified information internally" had gone down, with no evidence of a cyberattack at that point and staggered measures enacted while scope was assessed. Forbes, The Record, ABC and others repeated the same framing.
 - These reports confirm the network's continued existence and its role as the internal classified communications platform, but give no technical detail.
@@ -71,10 +71,10 @@ Who is behind each report:
 | CNN, 17 Nov 2026 | Six anonymous sources. For the 2000 crash, an agency spokesperson quoted at the time |
 | Forbes, The Record, ABC, WRAL, Ynet | Repeat CNN's framing. The Record adds the 2013 public website incident |
 | Wall Street Journal, via Jerusalem Post | One person familiar |
-| Nextgov/FCW | Six people familiar; four of them point to software upgrades |
+| Nextgov/FCW | Six people familiar; four of them said it may be linked to a series of software upgrades |
 | New York Times, syndicated | One person |
 
-What each report said is in the [timeline](timeline.md#17-november-2026).
+What each report said is in the [timeline](timeline.md#17-november-2026); the 2000 crash is under [January 2000](timeline.md#january-2000).
 
 **Provenance:** anonymous-source journalism with no technical content. The denials are low-information: "no evidence of a cyberattack" on day one describes what has been found, not what has been ruled out. How that is weighed is in the [assessment](assessment.md#cyberattack-versus-self-inflicted).
 
@@ -94,6 +94,6 @@ Also cited, so far by outlet only:
 - WRAL (Nov 2026)
 - The comparison sources, listed in [comparison.md](comparison.md#sources)
 
-URLs, and titles for the second group, are not recorded yet. Both are tasks in [open-questions.md](open-questions.md#needs-sourcing).
+URLs are not recorded yet. Titles are not recorded for the second group, or for the Forbes, The Record, ABC News 4 and Ynetnews coverage in the first. Both are tasks in [open-questions.md](open-questions.md#needs-sourcing).
 
 [Back to README](README.md)
