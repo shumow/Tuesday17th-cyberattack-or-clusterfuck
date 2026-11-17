@@ -1,8 +1,8 @@
 # Provenance at a glance
 
-[README](README.md) · **Provenance** · [Sources](sources.md) · [Timeline](timeline.md) · [Assessment](assessment.md) · [Comparison](comparison.md) · [Open questions](open-questions.md)
+[README](README.md) · **Provenance** · [Sources](sources.md) · [Timeline](timeline.md) · [Assessment](assessment.md) · [Comparison](comparison.md) · [Open questions](open-questions.md) · [Source check](source-check.md)
 
-The main claims about NSANet in this repo, each traced to where it comes from and how good that source is.
+The main claims about NSANet in this repo, each traced to where it comes from and how good that source is. As of 17 November 2026.
 
 **The pattern to notice:** the only primary material seen directly is 19 to 23 years old; everything technical since then comes through one hobbyist blog; and the current reporting is anonymous-source journalism with no technical content.
 

@@ -1,8 +1,8 @@
 # Assessment
 
-[README](README.md) · [Provenance](provenance.md) · [Sources](sources.md) · [Timeline](timeline.md) · **Assessment** · [Comparison](comparison.md) · [Open questions](open-questions.md)
+[README](README.md) · [Provenance](provenance.md) · [Sources](sources.md) · [Timeline](timeline.md) · **Assessment** · [Comparison](comparison.md) · [Open questions](open-questions.md) · [Source check](source-check.md)
 
-What the open evidence adds up to, as of 17 November 2026. This page is assessment, not finding. The claims it rests on are in [provenance.md](provenance.md).
+What the open evidence adds up to, as of 17 November 2026. This page is assessment, not finding. It rests on the claims in [provenance.md](provenance.md) and the reporting in [timeline.md](timeline.md); statements that do not yet name a source are marked below.
 
 ## What "mission critical" means here
 
@@ -39,8 +39,10 @@ These cases do not yet name a source. That is a task in [open-questions.md](open
 
 On current evidence the self-inflicted explanation is strongly favoured. This is an assessment, not a finding; a change in the outage's duration or in the agency's posture would be the thing to watch.
 
+Update, later on 17 November 2026: the NSA stated on the record that the outage was a temporary degradation during scheduled routine maintenance, with mission-critical capabilities unaffected (carried by The Record, ABC News 4 and Ynetnews; see the [timeline](timeline.md#17-november-2026)). That fits the self-inflicted explanation, but it is an official account, not independent confirmation, and the reading rule applies to it as to any other.
+
 ## Sources
 
-This page rests on the claims in [provenance.md](provenance.md) and the reporting in [timeline.md](timeline.md). The source list is in [sources.md](sources.md#sources-consulted).
+This page rests on the claims in [provenance.md](provenance.md) and the reporting in [timeline.md](timeline.md). Statements that do not yet name a source are marked where they stand. The source list is in [sources.md](sources.md#sources-consulted).
 
 [Back to README](README.md)
