@@ -4,7 +4,7 @@
 
 A later pass over the sources, made on 17 November 2026 after the notes behind this repo were compiled. Each page the notes cite was looked up, opened where possible and compared with what the notes say about it. A second, independent read then re-opened every link.
 
-The claims in the other files have not been changed to match what is listed here. That is a task in [open-questions.md](open-questions.md#source-check).
+The claims in the other files were brought into line with what is listed here later on 17 November 2026. This page is kept as the record of what was found; "the notes" below means the files as they stood before that.
 
 ## How to read this page
 
@@ -14,12 +14,12 @@ The claims in the other files have not been changed to match what is listed here
 
 ## The reporting has moved
 
-Three of the outage reports were rewritten during 17 November 2026 and now carry an on-record statement from the NSA: a temporary degradation during scheduled routine maintenance, with some internal systems affected and mission-critical capabilities still operating. The status in the [README](README.md) and the entries in the [timeline](timeline.md) were written before that statement and do not include it.
+Three of the outage reports were rewritten during 17 November 2026 and now carry an on-record statement from the NSA: a temporary degradation during scheduled routine maintenance, with some internal systems affected and mission-critical capabilities still operating. The status in the [README](README.md) and the entries in the [timeline](timeline.md) were written before that statement; both now include it.
 
 Also new since the notes, on pages opened in this pass:
 
 - The Record, from its own sources, says the network is not fully down but working intermittently.
-- The later version of CNN's wire story, and Ynetnews, say intelligence sharing with the Five Eyes partners is not affected. That bears on an [open question](open-questions.md#unanswered).
+- The later version of CNN's wire story, and Ynetnews, say intelligence sharing with the Five Eyes partners is not affected. That answers an [open question](open-questions.md#unanswered), which is now ticked.
 - The later CNN version adds a White House spokesperson saying there is no evidence of a cyberattack.
 
 ## Background sources
@@ -74,7 +74,7 @@ On the Electrospaces page:
 
 ## Candidate sources
 
-For statements listed under [Needs sourcing](open-questions.md#needs-sourcing). The notes did not use these pages; they are here to be read.
+For statements listed under [Needs sourcing](open-questions.md#needs-sourcing). The notes did not use these pages; they are here to be read. Since then the NPR and TechCrunch pages have been cited in the [assessment](assessment.md#base-rate), and the context outages have been sourced from the companion repo, [fridaythe13th-cyberattack-or-clusterfuck](https://github.com/shumow/fridaythe13th-cyberattack-or-clusterfuck).
 
 | Statement | Candidate | Opened | What it says |
 | --- | --- | --- | --- |

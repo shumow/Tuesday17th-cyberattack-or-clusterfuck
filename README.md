@@ -12,7 +12,7 @@ Investigation into the November 17th weirdness
 
 | Status | 17 November 2026 |
 | --- | --- |
-| **Latest update** | NSANet, the NSA's classified internal network, was reported down on the morning of 17 November. CNN, citing six anonymous sources, reported no evidence of a cyberattack at that point and staggered measures enacted while scope was assessed. Later the same day the NSA stated on the record that this was a temporary degradation during scheduled routine maintenance, with some internal systems affected and mission-critical capabilities still operating; The Record, ABC News 4 and Ynetnews carried the statement, and the later CNN version added that Five Eyes sharing was unaffected. Earlier anonymous-source reports had pointed the same way: a software patch (WSJ via Jerusalem Post, one person) or a series of upgrades (Nextgov, four of six), and weeks of instability (New York Times, one person). Details in the [timeline](timeline.md#17-november-2026). |
+| **Latest update** | NSANet, the NSA's classified internal network, was reported down on the morning of 17 November. CNN, citing six anonymous sources, reported no evidence of a cyberattack at that point and staggered arrivals for personnel while scope was assessed. Later the same day the NSA stated on the record that this was a temporary degradation during scheduled routine maintenance, with some internal systems affected and mission-critical capabilities still operating; The Record, ABC News 4 and Ynetnews carried the statement, and the later CNN version added that Five Eyes sharing was unaffected. Earlier anonymous-source reports had pointed the same way: a software patch (WSJ via Jerusalem Post, one person) or a series of upgrades (Nextgov, four of six), and weeks of instability (New York Times, one person; The Record carries the same claim). Details in the [timeline](timeline.md#17-november-2026). |
 | **Current best explanation** | Self-inflicted, scheduled maintenance or a software update, rather than a cyberattack. The reporting matches the botched-update profile on every point available, and none of the intrusion signs have been reported. The NSA has now stated on the record that the outage was scheduled maintenance, which fits this explanation; it is an official account, not independent confirmation, and the reading rule applies to it. Reasoning in the [assessment](assessment.md#cyberattack-versus-self-inflicted). |
 | **What changed** | The NSA issued an on-record statement attributing the outage to scheduled maintenance; The Record, ABC News 4 and Ynetnews updated their reports, and the later CNN version added that Five Eyes sharing was unaffected. |
 | **Watch for** | A change in the outage's duration or in the agency's posture. See the [assessment](assessment.md#cyberattack-versus-self-inflicted). |
@@ -31,7 +31,7 @@ Working notes compiled 17 November 2026, prompted by reports that NSA's classifi
 
 ### Summary
 
-NSANet is real and has been publicly documented since at least the late 1990s. The strongest evidence is primary: leaked NSA internal newsletters (SIDtoday, 2003–2007) that refer to NSANet as the agency's "home" system and carry a standing notice that articles may not be reposted outside NSANet. Secondary and tertiary sources (the Electrospaces blog, Wikipedia) add detail on classification level, colour coding, users, management and hosted tools, mostly derived from Snowden-era documents, FOIA releases and job postings. The weakness is recency: nearly all substantive public detail is 2003–2015 vintage. The only current confirmation is the November 2026 outage reporting, which describes the network functionally but not technically.
+NSANet is real and has been publicly documented since at least the late 1990s. The strongest evidence is primary: leaked NSA internal newsletters (SIDtoday, 2003–2006) that refer to NSANet as the agency's "home" system and carry a standing notice that articles may not be reposted outside NSANet. Secondary and tertiary sources (the Electrospaces blog, Wikipedia) add detail on classification level, colour coding, users, management and hosted tools, mostly derived from Snowden-era documents, FOIA releases and job postings. The weakness is recency: nearly all substantive public detail is 2003–2015 vintage. The only current confirmation is the November 2026 outage reporting, which describes the network functionally but not technically.
 
 ## Read on
 
@@ -43,7 +43,7 @@ NSANet is real and has been publicly documented since at least the late 1990s. T
 | [assessment.md](assessment.md) | What "mission critical" means on the open evidence, and cyberattack versus self-inflicted. |
 | [comparison.md](comparison.md) | How recent public data is on other intelligence community networks. |
 | [open-questions.md](open-questions.md) | What is still unknown, unchecked or unsourced, as a checklist. |
-| [source-check.md](source-check.md) | A later pass that looked up and opened the sources: links, and where the pages differ from the notes. |
+| [source-check.md](source-check.md) | A later pass that looked up and opened the sources: links, and where the pages differed from the notes. Folded into the other files on 17 November 2026. |
 
 ## How updates work
 
@@ -56,4 +56,4 @@ NSANet is real and has been publicly documented since at least the late 1990s. T
 
 ## Sources
 
-The status and summary on this page rest on the sources listed in [sources.md](sources.md#sources-consulted). The outage reports are also listed at the end of [timeline.md](timeline.md#sources). Links were added on 17 November 2026: see [source-check.md](source-check.md).
+The status and summary on this page rest on the sources listed in [sources.md](sources.md#sources-consulted). The outage reports are also listed at the end of [timeline.md](timeline.md#sources). Links were added on 17 November 2026: see [source-check.md](source-check.md). The outages of the days before are covered in the companion repo, [fridaythe13th-cyberattack-or-clusterfuck](https://github.com/shumow/fridaythe13th-cyberattack-or-clusterfuck).
